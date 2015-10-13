@@ -7,7 +7,7 @@ This repository is <b><i>NOT</b></i> the original repository for this tool.<br>
 <p>
 The tool is no longer maintained.<br>
 
-In this repository, for <b>Portfolio</b> you will find:
+In this repository, for Portfolio you will find:
 * :x: Source code (not available)
 * :x: Original tool (not available)
 

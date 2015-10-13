@@ -6,5 +6,11 @@ The tool was originally presented in this [Paper](http://dl.acm.org/citation.cfm
 This repository is <b><i>NOT</b></i> the original repository for this tool.<br>
 <p>
 The tool is no longer maintained.<br>
+
+In this repository, for <b>Portfolio</b> you will find:
+* :x: Source code (not available)
+* :x: Original tool (not available)
+
+This tool was certified as Unworkable for this project because of the complexities involved in server setup and database integration.
 <p>
 This repository was constructed by [Bhargav Jhaveri](https://github.com/BhargavJhaveri/) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson).

@@ -10,6 +10,7 @@ The tool is no longer maintained.<br>
 In this repository, for Portfolio you will find:
 * :x: Source code (not available)
 * :x: Original tool (not available)
+* :x: The original video page (Not available)
 
 This tool was certified as Unworkable for this project because of the complexities involved in server setup and database integration.
 <p>
